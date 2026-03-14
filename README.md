@@ -86,4 +86,4 @@ Ejecutar Consumer.java para procesar los mensajes y enviarlos al endpoint POST.
 En el siguiente enlace se encuentra el video donde muestro el funcionamiento del sistema.
 
 Link del video  
-[PEGAR_AQUI_EL_LINK_DE_DRIVE](https://drive.google.com/file/d/1_OZ0qhWTrXRpTOqBNsjigOhFgynkjtPC/view?usp=sharing)
+(https://drive.google.com/file/d/1_OZ0qhWTrXRpTOqBNsjigOhFgynkjtPC/view?usp=sharing)
